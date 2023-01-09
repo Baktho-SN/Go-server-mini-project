@@ -1,5 +1,5 @@
 # Go-server-mini-project
-I built a simple server using go and html
+This is a simple server built using go and html
 
 # **Languages used**
 <p>
